@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Unnati Bukhariya , you can call me @unnzzz
 - 👀 I’m interested in Game develpoment, Web development - both Frontend and Backend, UI/UX designing, Data Structures and Algorithms, and Machine Learning.
+- 👀 I am equipped with a diverse and promising skill set. Proficient in an assortment of technologies, including Java, Kotlin, React, Android Studio, GitHub,       and OpenGL. 
 - 🌱 I’m currently learning Advanced Programming in C++, Solidity, Machine Learning using Python, Web development using Django, SQL , and Data Analytics.
 - 📫 You can Contact me at unnatibukhariya@gmail.com
 <!---
